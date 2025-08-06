@@ -52,6 +52,10 @@ Open [http://localhost:3000](http://localhost:3000) to see the application.
 3. **Guess**: Click "Get AI Guess" to see what the AI thinks you drew
 4. **Continue**: Clear the canvas and draw something new!
 
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3760374/9dcc311c-35f0-43da-826a-2c369b5b440f.png)
+
+![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3760374/21311a5e-0bc3-4f27-a7ff-48b8aab03132.png)
+
 ## Project Structure
 
 ```
